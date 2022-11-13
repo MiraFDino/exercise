@@ -1,0 +1,4 @@
+﻿  test.c
+E:\project\GitHubRepository\exercise\test_10_25\test_10_25\test.c(44,10): warning C4048: “int (*)[4]”和“int (*)[12]”数组的下标不同
+E:\project\GitHubRepository\exercise\test_10_25\test_10_25\test.c(45,31): warning C4047: “-”:“int (*)[4]”与“int *”的间接级别不同
+  test_10_25.vcxproj -> E:\project\GitHubRepository\exercise\test_10_25\Debug\test_10_25.exe
